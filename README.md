@@ -1,58 +1,29 @@
-# 🧠 Assignment: Interactive Web Pages with JavaScript
+# JavaScript interactivity assignment brief
 
-Welcome to the exciting world of interactivity! This assignment is all about **making your web pages feel alive**. You’ll learn how to respond to user actions, build engaging components, and validate form input—without reloading the page. This is where JavaScript gets fun, practical, and powerful. 🚀
+Classroom instructions only; required HTML/JavaScript deliverables are absent.
 
----
+Original personal repository: [plp-webtechnologies-classroom-july2025-july-2025-javascript-events-and-basic-interactivity-javascrip](https://github.com/judeik/plp-webtechnologies-classroom-july2025-july-2025-javascript-events-and-basic-interactivity-javascrip). This is a local editorial draft; the existing remote and its history have not been changed.
 
-## 🎉 Part 1: JavaScript Event Handling and Interactive Elements
+## Contents and usage
 
-Let’s start with the basics of **event handling**. You'll set up JavaScript to listen for user actions like clicks, mouseovers, keyboard input, and more—and respond to them in meaningful ways.
+No validated runtime command is claimed here; see scope and review notes.
 
-**Goal:** Use event listeners to react to user behavior and trigger changes on the page (e.g., showing messages, toggling classes, hiding/showing content).
+## Scope and limitations
 
----
+Keep out of demonstrated-implementation listings. Use a readable display title without renaming the existing remote. Preserve instructor text privately; no rebrand as a completed solution.
 
-## 🎮 Part 2: Building Interactive Elements
+The inspected sources are learning work. No runtime test, assessment grade, production readiness, secure payment/authentication or independently verified team contribution is claimed. Original commit authors and dates remain unchanged.
 
-Now it’s time to apply what you’ve learned by creating your own mini interactive features. You can build things like:
+## Documentation and follow-up work
 
-* A light/dark mode toggle
-* A counter or button game
-* A collapsible FAQ section
-* A simple dropdown menu
-* A tabbed interface
+- Link only as a brief/archive if appropriate
+- No event-handling/form-validation skill claim from this repository
+- Any new implementation or rename is separate work and approval
 
-**Goal:** Use DOM manipulation + events to make the page dynamic and engaging. Be creative!
+These are proposed improvements, not changes already implemented in the source. Fixes and tests must be reviewed separately before updating the existing remote.
 
----
+## Attribution
 
-## 📋✅ Part 3: Form Validation with JavaScript
+Retain existing author credits/notices. No new blanket license is applied; source/template/asset rights require their own review.
 
-Forms are essential to the web—and validating them properly is key to good user experience. You’ll build a form with multiple input fields (name, email, password, etc.) and write JavaScript to validate each field when the user submits or types.
-
-**Goal:** Prevent incorrect form submissions by writing custom validation logic using conditions and regular expressions. Show user-friendly error messages and success feedback.
-
----
-
-## Deliverables
-
-* `index.html`: Your structured web page with at least one form and several interactive sections
-* `script.js`: Your JavaScript file with:
-
-  * Event handling for buttons, inputs, or links
-  * At least 2 interactive features created from scratch
-  * A fully functioning custom form validation (no HTML5-only validation)
-* `style.css` (optional but encouraged): To style your interactive elements
-
-Each section of your JavaScript should be commented to explain its purpose.
-
----
-
-## Outcome
-
-* Use of event listeners and appropriate event types
-* Creativity and functionality of interactive elements
-* Form validation accuracy and helpfulness of feedback
-* Clear, modular, and well-commented JavaScript code
-* A clean and functional user experience
-
+Personal contact details, age records and copied instructional text are intentionally not reproduced in this public-facing draft. That omission does not remove them from original history or establish publication clearance.
